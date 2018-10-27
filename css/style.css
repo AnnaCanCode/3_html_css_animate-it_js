@@ -122,14 +122,14 @@ header {
 	padding: 75px 0 40px;
 	color: #ffffff;
 	font-family: 'Source Serif Pro', serif;
-	background: url('images/header_photo_small.jpg') 0 0;	
+	background: url('../images/header_photo_small.jpg') 0 0;	
 	background-size: cover;
 }
 
 @media screen and (min-width: 1024px){
 	.top {
 	padding: 290px 0 180px;
-	background: url('images/header_photo_big.jpg') 0 0;	
+	background: url('../images/header_photo_big.jpg') 0 0;	
 	background-size: cover;
 	}
 }
@@ -484,6 +484,6 @@ footer {
 @media screen and (min-width: 1024px) {
 	footer {
 	padding: 40px 0;
-	font-size: 16px;	
-}
+	font-size: 16px;
+	}
 }
